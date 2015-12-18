@@ -1,0 +1,1389 @@
+fileFormatVersion: 2
+guid: 3f7d013700cca3a4b96b159167d22459
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SciFi_0
+    21300002: SciFi_1
+    21300004: SciFi_2
+    21300006: SciFi_3
+    21300008: SciFi_4
+    21300010: SciFi_5
+    21300012: SciFi_6
+    21300014: SciFi_7
+    21300016: SciFi_8
+    21300018: SciFi_9
+    21300020: SciFi_10
+    21300022: SciFi_11
+    21300024: SciFi_12
+    21300026: SciFi_13
+    21300028: SciFi_14
+    21300030: SciFi_15
+    21300032: SciFi_16
+    21300034: SciFi_17
+    21300036: SciFi_18
+    21300038: SciFi_19
+    21300040: SciFi_20
+    21300042: SciFi_21
+    21300044: SciFi_22
+    21300046: SciFi_23
+    21300048: SciFi_24
+    21300050: SciFi_25
+    21300052: SciFi_26
+    21300054: SciFi_27
+    21300056: SciFi_28
+    21300058: SciFi_29
+    21300060: SciFi_30
+    21300062: SciFi_31
+    21300064: SciFi_32
+    21300066: SciFi_33
+    21300068: SciFi_34
+    21300070: SciFi_35
+    21300072: SciFi_36
+    21300074: SciFi_37
+    21300076: SciFi_38
+    21300078: SciFi_39
+    21300080: SciFi_40
+    21300082: SciFi_41
+    21300084: SciFi_42
+    21300086: SciFi_43
+    21300088: SciFi_44
+    21300090: SciFi_45
+    21300092: SciFi_46
+    21300094: SciFi_47
+    21300096: SciFi_48
+    21300098: SciFi_49
+    21300100: SciFi_50
+    21300102: SciFi_51
+    21300104: SciFi_52
+    21300106: SciFi_53
+    21300108: SciFi_54
+    21300110: SciFi_55
+    21300112: SciFi_56
+    21300114: SciFi_57
+    21300116: SciFi_58
+    21300118: SciFi_59
+    21300120: SciFi_60
+    21300122: SciFi_61
+    21300124: SciFi_62
+    21300126: SciFi_63
+    21300128: SciFi_64
+    21300130: SciFi_65
+    21300132: SciFi_66
+    21300134: SciFi_67
+    21300136: SciFi_68
+    21300138: SciFi_69
+    21300140: SciFi_70
+    21300142: SciFi_71
+    21300144: SciFi_72
+    21300146: SciFi_73
+    21300148: SciFi_74
+    21300150: SciFi_75
+    21300152: SciFi_76
+    21300154: SciFi_77
+    21300156: SciFi_78
+    21300158: SciFi_79
+    21300160: SciFi_80
+    21300162: SciFi_81
+    21300164: SciFi_82
+    21300166: SciFi_83
+    21300168: SciFi_84
+    21300170: SciFi_85
+    21300172: SciFi_86
+    21300174: SciFi_87
+    21300176: SciFi_88
+    21300178: SciFi_89
+    21300180: SciFi_90
+    21300182: SciFi_91
+    21300184: SciFi_92
+    21300186: SciFi_93
+    21300188: SciFi_94
+    21300190: SciFi_95
+    21300192: SciFi_96
+    21300194: SciFi_97
+    21300196: SciFi_98
+    21300198: SciFi_99
+    21300200: SciFi_100
+    21300202: SciFi_101
+    21300204: SciFi_102
+    21300206: SciFi_103
+    21300208: SciFi_104
+    21300210: SciFi_105
+    21300212: SciFi_106
+    21300214: SciFi_107
+    21300216: SciFi_108
+    21300218: SciFi_109
+    21300220: SciFi_110
+    21300222: SciFi_111
+    21300224: SciFi_112
+    21300226: SciFi_113
+    21300228: SciFi_114
+    21300230: SciFi_115
+    21300232: SciFi_116
+    21300234: SciFi_117
+    21300236: SciFi_118
+    21300238: SciFi_119
+    21300240: SciFi_120
+    21300242: SciFi_121
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SciFi_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_22
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_30
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_31
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_32
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_38
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_39
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_40
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_41
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_42
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_46
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_48
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_49
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_50
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_51
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_53
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_57
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_58
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_59
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_60
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_61
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_62
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_64
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_65
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_66
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_68
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_69
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_70
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_71
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_72
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_73
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_74
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_76
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_77
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_78
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_79
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_80
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_81
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_82
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_83
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_84
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_85
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_87
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_88
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_89
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_90
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_91
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_92
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_93
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_94
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_95
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_96
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_97
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_99
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_100
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_101
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_102
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_103
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_104
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_105
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_106
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_107
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_108
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_109
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_111
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_112
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_113
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_114
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_115
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_116
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_117
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_118
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_119
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_120
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SciFi_121
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

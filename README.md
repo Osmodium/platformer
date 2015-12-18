@@ -1,2 +1,2 @@
-# platformer
-The platformer
+# Platformer
+The platformer, codename IWannaBeOnFire.
